@@ -175,23 +175,12 @@
 			"radius": "4"
 		}
 	],
-	"kathairis:mysticminigrass": [
-		{
-			"color": {
-				"red": "0.1",
-                "green": "0.1",
-                "blue": "0.9",
-                "alpha": "1"
-			},
-			"radius": "4"
-		}
-	],
 	"kathairis:solis_crystals": [
 		{
 			"color": {
 				"red": "0.0",
                 "green": "0.9",
-                "blue": "0.8",
+                "blue": "0.9",
                 "alpha": "1"
 			},
 			"radius": "8"
