@@ -1,0 +1,431 @@
+{
+    "minecraft:glowstone": [
+        {
+            "color": {
+                "red": "rng(0.4) + 0.8",
+                "green": "0.6",
+                "blue": "0",
+                "alpha": "1"
+            },
+            "radius": "7"
+        }
+    ],
+    "minecraft:lit_pumpkin": [
+        {
+            "color": {
+                "red": "0.6",
+                "green": "0.4",
+                "blue": "0",
+                "alpha": "1"
+            },
+            "radius": "5"
+        }
+    ],
+    "minecraft:torch": [
+        {
+            "color": {
+                "red": "0.7",
+                "green": "0.4",
+                "blue": "0",
+                "alpha": "1"
+            },
+            "radius": "6"
+        }
+    ],
+    "minecraft:lit_redstone_ore": [
+        {
+            "color": {
+                "red": "rng(0.4) + 0.6",
+                "green": "0",
+                "blue": "0",
+                "alpha": "1"
+            },
+            "radius": "3"
+        }
+    ],
+    "minecraft:redstone_torch": [
+        {
+            "color": {
+                "red": "rng(0.4) + 0.6",
+                "green": "0.15",
+                "blue": "0.15",
+                "alpha": "1"
+            },
+            "radius": "5"
+        }
+    ],
+	"minecraft:redstone_block": [
+        {
+            "color": {
+                "red": "0.6",
+                "green": "0.15",
+                "blue": "0.15",
+                "alpha": "1"
+            },
+            "radius": "3"
+        }
+	],
+    "minecraft:lit_redstone_lamp": [
+        {
+            "color": {
+                "red": "0.8",
+                "green": "0.2",
+                "blue": "0",
+                "alpha": "1"
+            },
+            "radius": "9"
+        }
+    ],
+    "minecraft:fire": [
+        {
+            "color": {
+                "red": "0.7",
+                "green": "0.4",
+                "blue": "0",
+                "alpha": "1"
+            },
+            "radius": "8"
+        }
+    ],
+    "minecraft:lit_furnace": [
+        {
+            "color": {
+                "red": "0.7",
+                "green": "0.4",
+                "blue": "0",
+                "alpha": "1"
+            },
+            "radius": "4"
+        }
+    ],
+    "minecraft:portal": [
+        {
+            "color": {
+                "red": "rng(0.3) + 0.1",
+                "green": "0",
+                "blue": "rng(0.3) + 0.4 + 0.3 * flicker(10000)",
+                "alpha": "0.25"
+            },
+            "radius": "9"
+        }
+    ],
+    "minecraft:sea_lantern": [
+        {
+            "color": {
+                "red": "0",
+                "green": "0.8",
+                "blue": "0.6",
+                "alpha": "1"
+            },
+            "radius": "5 + 3 * flicker(10000)"
+        }
+    ],
+    "minecraft:beacon": [
+        {
+            "color": {
+                "red": "0",
+                "green": "0.8",
+                "blue": "0.6",
+                "alpha": "1"
+            },
+            "radius": "5"
+        }
+    ],
+    "minecraft:end_portal": [
+        {
+            "color": {
+                "red": "0.5",
+                "green": "rng(0.2) + 0.8",
+                "blue": "rng(0.4) + 0.6",
+                "alpha": "0.6"
+            },
+            "radius": "5 + flicker(10000)"
+        }
+    ],
+    "minecraft:end_gateway": [
+        {
+            "color": {
+                "red": "0.5",
+                "green": "rng(0.2) + 0.8",
+                "blue": "rng(0.4) + 0.6",
+                "alpha": "0.6"
+            },
+            "radius": "5 + flicker(10000)"
+        }
+    ],
+    "minecraft:end_rod": [
+        {
+            "color": {
+                "red": "1",
+                "green": "0.6",
+                "blue": "1",
+                "alpha": "1"
+            },
+            "radius": "5"
+        }
+    ],
+	"kathairis:glowvines": [
+		{
+			"color": {
+				"red": "0",
+                "green": "0.2",
+                "blue": "0.8",
+                "alpha": "1"
+			},
+			"radius": "4"
+		}
+	],
+	"kathairis:mysticminigrass": [
+		{
+			"color": {
+				"red": "0.1",
+                "green": "0.1",
+                "blue": "0.9",
+                "alpha": "1"
+			},
+			"radius": "4"
+		}
+	],
+	"kathairis:solis_crystals": [
+		{
+			"color": {
+				"red": "0.0",
+                "green": "0.9",
+                "blue": "0.8",
+                "alpha": "1"
+			},
+			"radius": "8"
+		}
+	],
+	"kathairis:luminescentgnarl": [
+		{
+			"color": {
+				"red": "0.1",
+                "green": "0",
+                "blue": "1",
+                "alpha": "1"
+			},
+			"radius": "3"
+		}
+	],
+	"kathairis:mysticfungus": [
+		{
+			"color": {
+				"red": "0",
+                "green": "0",
+                "blue": "0.6",
+                "alpha": "1"
+			},
+			"radius": "3"
+		}
+	],
+	"kathairis:snowdrop_cyprepedium": [
+		{
+			"color": {
+				"red": "0",
+                "green": "0",
+                "blue": "0.75",
+                "alpha": "1"
+			},
+			"radius": "5"
+		}
+	],
+	"midnight:bogshroom": [
+		{
+			"color": {
+				"red": "1",
+                "green": "0.5",
+                "blue": "0.4",
+                "alpha": "1"
+			},
+			"radius": "4"
+		}
+	],
+	"midnight:double_bogshroom": [
+		{
+			"color": {
+				"red": "1",
+                "green": "0.5",
+                "blue": "0.4",
+                "alpha": "1"
+			},
+			"radius": "5"
+		}
+	],
+	"midnight:crystal_flower": [
+		{
+			"color": {
+				"red": "1",
+                "green": "0",
+                "blue": "1",
+                "alpha": "1"
+			},
+			"radius": "4"
+		}
+	],
+	"midnight:rouxe": [
+		{
+			"color": {
+				"red": "0.8",
+                "green": "0",
+                "blue": "0",
+                "alpha": "1"
+			},
+			"radius": "5"
+		}
+	],
+	"midnight:bloomcrystal": [
+		{
+			"color": {
+				"red": "0.8",
+                "green": "0",
+                "blue": "1",
+                "alpha": "1"
+			},
+			"radius": "7 + flicker(10000)"
+		}
+	],
+	"midnight:suavis:3": [
+		{
+			"color": {
+				"red": "0",
+                "green": "0",
+                "blue": "0.6",
+                "alpha": "1"
+			},
+			"radius": "5"
+		}
+	],
+	"midnight:dragon_nest": [
+		{
+			"color": {
+				"red": "0.8",
+                "green": "0",
+                "blue": "0.5",
+                "alpha": "1"
+			},
+			"radius": "4"
+		}
+	],
+	"midnight:double_lumen_bud": [
+		{
+			"color": {
+				"red": "0",
+                "green": "0.5",
+                "blue": "0.7",
+                "alpha": "1"
+			},
+			"radius": "5"
+		}
+	],
+	"midnight:viridshroom": [
+		{
+			"color": {
+				"red": "0",
+                "green": "0.8",
+                "blue": "0.1",
+                "alpha": "1"
+			},
+			"radius": "3"
+		}
+	],
+	"midnight:double_viridshroom": [
+		{
+			"color": {
+				"red": "0",
+                "green": "0.8",
+                "blue": "0.1",
+                "alpha": "1"
+			},
+			"radius": "5"
+		}
+	],
+	"midnight:dewshroom": [
+		{
+			"color": {
+				"red": "0",
+                "green": "0",
+                "blue": "0.7",
+                "alpha": "1"
+			},
+			"radius": "3"
+		}
+	],
+	"midnight:double_dewshroom": [
+		{
+			"color": {
+				"red": "0",
+                "green": "0",
+                "blue": "0.7",
+                "alpha": "1"
+			},
+			"radius": "5"
+		}
+	],
+	"midnight:nightshroom": [
+		{
+			"color": {
+				"red": "0.4",
+                "green": "0",
+                "blue": "0.8",
+                "alpha": "1"
+			},
+			"radius": "3"
+		}
+	],
+	"midnight:double_nightshroom": [
+		{
+			"color": {
+				"red": "0.4",
+                "green": "0",
+                "blue": "0.8",
+                "alpha": "1"
+			},
+			"radius": "5"
+		}
+	],
+	"landsoficaria:calcite": [
+		{
+			"color": {
+				"red": "1",
+                "green": "1",
+                "blue": "1",
+                "alpha": "1"
+			},
+			"radius": "6"
+		}
+	],
+	"landsoficaria:jasper": [
+		{
+			"color": {
+				"red": "1",
+                "green": "0",
+                "blue": "0",
+                "alpha": "1"
+			},
+			"radius": "6"
+		}
+	],
+	"landsoficaria:zircon": [
+		{
+			"color": {
+				"red": "0",
+                "green": "0",
+                "blue": "1",
+                "alpha": "1"
+			},
+			"radius": "6"
+		}
+	],
+	"landsoficaria:greek_fire": [
+		{
+			"color": {
+				"red": "0",
+                "green": "0.8",
+                "blue": "0",
+                "alpha": "1"
+			},
+			"radius": "6"
+		}
+	]
+}

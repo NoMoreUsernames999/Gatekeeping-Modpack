@@ -1,0 +1,112 @@
+{
+    "minecraft:magma_cube": [
+        {
+            "color": {
+                "red": "0.4",
+                "green": "0.3",
+                "blue": "0",
+                "alpha": "1"
+            },
+            "radius": "4"
+        }
+    ],
+    "minecraft:blaze": [
+        {
+            "color": {
+                "red": "0.8",
+                "green": "0.6",
+                "blue": "0",
+                "alpha": "1"
+            },
+            "radius": "6"
+        }
+    ],
+	"midnight:rifter": [
+        {
+            "color": {
+                "red": "0.8",
+                "green": "1",
+                "blue": "0.8",
+                "alpha": "0.7"
+            },
+            "radius": "3"
+        }
+    ],
+    "midnight:rift": [
+        {
+            "color": {
+                "red": "1",
+                "green": "0",
+                "blue": "0",
+                "alpha": "1"
+            },
+            "radius": "10 + 3 * flicker(10000)"
+        }
+    ],
+	"kathairis:textures/entity/jellyfish.png": [
+        {
+            "color": {
+                "red": "0.1",
+                "green": "0",
+                "blue": "0.7",
+                "alpha": "1"
+            },
+            "radius": "5"
+        }
+    ],
+	"oe:baby_glow_squid": [
+        {
+            "color": {
+                "red": "0",
+                "green": "0",
+                "blue": "0.7",
+                "alpha": "1"
+            },
+            "radius": "3"
+        }
+    ],
+	"oe:glow_squid": [
+        {
+            "color": {
+                "red": "0",
+                "green": "0",
+                "blue": "0.7",
+                "alpha": "1"
+            },
+            "radius": "4"
+        }
+    ],
+	"midnight:nova": [
+        {
+            "color": {
+                "red": "0.8",
+                "green": "0",
+                "blue": "0",
+                "alpha": "1"
+            },
+            "radius": "6"
+        }
+    ],
+	"landsoficaria:revenant_overgrown": [
+        {
+            "color": {
+                "red": "0.8",
+                "green": "0.8",
+                "blue": "0.8",
+                "alpha": "1"
+            },
+            "radius": "3"
+        }
+    ],
+	"mowziesmobs:lantern": [
+        {
+            "color": {
+                "red": "0",
+                "green": "0.8",
+                "blue": "0",
+                "alpha": "1"
+            },
+            "radius": "5"
+        }
+    ]
+}
