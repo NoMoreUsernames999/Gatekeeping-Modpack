@@ -1,0 +1,18 @@
+{
+  "cause": {
+    "item": {
+      "item": "contenttweaker:scrollancient",
+      "damage": "any"
+    },
+    "hand": "MAINHAND",
+    "type": "additions:item_right_click"
+  },
+  "effects": [
+    {
+      "command": "locate Stronghold",
+      "command_sender_name": "@p",
+      "hide_feedback": false,
+      "type": "additions:command"
+    }
+  ]
+}

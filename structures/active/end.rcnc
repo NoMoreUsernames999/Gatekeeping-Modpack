@@ -1,0 +1,13 @@
+{
+  "generationInfos": [],
+  "defaultSpawnChance": 0.00003,
+  "spawnDistanceMultiplier": 0.1,
+  "spawnDistanceMultiplierCap": 0.007,
+  "selectableInGUI": true,
+  "structureMinCap": 1.0,
+  "title": "End",
+  "tooltip": [
+    "Structures focusing around combat and loot",
+    "Random structure each 330 chunks, starting after leaving the End island"
+  ]
+}

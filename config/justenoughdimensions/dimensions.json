@@ -1,0 +1,18 @@
+{
+    "dimensions": [
+        {
+            "dim": 1,
+            "override": true,
+            "dimensiontype": {
+                "id": 1,
+                "name": "Custom End",
+                "keeploaded": false,
+                "worldprovider": "WorldProviderEndJED",
+                "require_exact_match": true
+            },
+            "jed": {
+                "SkyRenderType": 2
+            }
+        }
+    ]
+}

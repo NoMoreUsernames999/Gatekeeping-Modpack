@@ -1,0 +1,11 @@
+{
+  "inventory": {
+    "1:0": "minecraft:iron_boots",
+    "1:1": "minecraft:iron_leggings",
+    "0:1": "minecraft:apple,6",
+    "1:3": "minecraft:iron_helmet",
+    "0:8": "antiqueatlas:empty_antique_atlas",
+    "1:2": "minecraft:iron_chestplate",
+    "0:0": "minecraft:iron_sword"
+  }
+}
